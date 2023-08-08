@@ -1,3 +1,3 @@
 # RadioBuddy
 Soon(tm)!
-![placeholder logo][./PlaceHolderLogo.jpeg]
+![placeholder logo](./PlaceHolderLogo.jpeg)
