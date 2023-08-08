@@ -1,3 +1,3 @@
 # RadioBuddy
 Soon(tm)!
-![placeholder logo](./PlaceHolderLogo.jpeg)
+<img src="https://github.com/RadioBuddy/radiobuddy.github.io/PlaceHolderLogo.jpeg" width=50% height=50%>
